@@ -14,10 +14,17 @@
 
 
  - Based on Checkout Times for Users line chart, the majority of rides are less than one hour with peak usage around 5 minutes.
+ 
+ ![Checkout Times for Users](https://github.com/RebeccaA79/bikesharing/blob/main/images/checkout_times_for_users.png)
+
 
 - Checkout Times by Gender follows a similar pattern in trip length to the Checkout Times by Users with most trips lasting under 20 minutes. Males do hold a much larger proportion of rides in comparison to females and unknown.
 
+![Checkout Times by Gender](https://github.com/RebeccaA79/bikesharing/blob/main/images/checkout_times_by_gender.png)
+
 - The Trips by Weekday per Hour heat map shows that bike usage is heaviest on weekdays during commuting times (Between 7am and 8am and between 5pm and 6pm). On weekends, the bike usage is heavier during the day with Saturday being the busiest day. Peak usage appears to be between late morning and early afternoon.
+
+![Trips by Weekday per Hour](https://github.com/RebeccaA79/bikesharing/blob/main/images/checkout_times_by_gender.png)
 
 - The Trips by Gender (per Weekday and hour) heat map shows a similar pattern as the heat map above, regardless of gender. As shown in the 2nd line chart above, males do hold the largest share of rides.
 
